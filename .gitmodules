@@ -14,3 +14,6 @@
 	path = openembedded-core
 	url = https://github.com/openembedded/openembedded-core.git
 	branch = wrynose
+[submodule "meta-rpi4-config"]
+	path = meta-rpi4-config
+	url = git@github.com:SGETTY210/meta-rpi4-config.git
