@@ -1,0 +1,22 @@
+# Build output 
+build*/
+
+# Bitbake / devtool leftovers
+bitbake-cookerdaemon.log
+*.lock
+*.sock
+pseudodone
+pseudo.*
+hashserve.sock
+
+# Logs and temp files
+*.log
+*.pyc
+__pycache__/
+*.swp
+*~
+.DS_Store
+
+# Editor/IDE
+.vscode/
+.idea/
