@@ -17,3 +17,6 @@
 [submodule "meta-rpi4-config"]
 	path = meta-rpi4-config
 	url = git@github.com:SGETTY210/meta-rpi4-config.git
+[submodule "meta-pipedal"]
+	path = meta-pipedal
+	url = git@github.com:SGETTY210/meta-pipedal.git
